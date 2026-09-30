@@ -53,7 +53,7 @@ function App() {
               <div className="card-header">
                 <div>
                   <span className="card-label">LATEST AUDIT</span>
-                  <h3>Quality Report</h3>
+                  <h2>Quality Report</h2>
                 </div>
                 <span className="status">PASSING</span>
               </div>

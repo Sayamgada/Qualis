@@ -109,7 +109,7 @@ nav a:hover {
   font-size: 12px;
   font-weight: 700;
   letter-spacing: 1.5px;
-  color: #777;
+  color: #666;
 }
 
 .hero h1 {
@@ -122,7 +122,7 @@ nav a:hover {
 
 .hero h1 span {
   display: block;
-  color: #777;
+  color: #666;
 }
 
 .hero-text > p {
@@ -167,10 +167,10 @@ nav a:hover {
   font-size: 10px;
   font-weight: 700;
   letter-spacing: 1.4px;
-  color: #999;
+  color: #666;
 }
 
-.card-header h3 {
+.card-header h2 {
   margin: 0;
   font-size: 20px;
 }
@@ -199,12 +199,12 @@ nav a:hover {
 
 .score span {
   margin-left: 5px;
-  color: #aaa;
+  color: #666;
 }
 
 .score-label {
   margin-top: 8px;
-  color: #888;
+  color: #666;
   font-size: 13px;
 }
 
@@ -262,7 +262,7 @@ nav a:hover {
 
 .section-heading p {
   margin-top: 20px;
-  color: #777;
+  color: #666;
   line-height: 1.7;
 }
 
@@ -301,7 +301,7 @@ nav a:hover {
 .quality-item p,
 .workflow-step p {
   margin: 0;
-  color: #777;
+  color: #666;
   font-size: 14px;
   line-height: 1.7;
 }
@@ -327,7 +327,7 @@ nav a:hover {
 }
 
 .quality-number {
-  color: #777;
+  color: #bbb;
   font-size: 12px;
   font-weight: 700;
 }
@@ -357,7 +357,7 @@ nav a:hover {
   margin-bottom: 25px;
   font-size: 12px;
   font-weight: 700;
-  color: #888;
+  color: #666;
 }
 
 .workflow-step h3 {
@@ -392,7 +392,7 @@ nav a:hover {
 .cta p {
   margin: 22px auto 30px;
   max-width: 550px;
-  color: #777;
+  color: #666;
   line-height: 1.7;
 }
 
@@ -411,7 +411,7 @@ footer {
 
 .footer-content p {
   margin: 5px 0 0;
-  color: #888;
+  color: #aaa;
   font-size: 12px;
 }
 
